@@ -7,3 +7,5 @@ Use command
 	git push origin master
 
 Creating a new branch is quich with git
+
+Creat a new branch is quick and simple
